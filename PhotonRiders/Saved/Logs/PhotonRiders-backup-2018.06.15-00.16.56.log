@@ -1,0 +1,1429 @@
+﻿Log file open, 06/11/18 15:11:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PhotonRiders
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-464365144) SRandInit(-464365144).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.254845
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.687s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-J3J4D8C (192.168.1.11:0)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.11-22.11.57:885][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.11-22.11.57:885][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.11-22.11.57:899][  0]LogInit: Computer: DESKTOP-J3J4D8C
+[2018.06.11-22.11.57:899][  0]LogInit: User: jedik
+[2018.06.11-22.11.57:899][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.11-22.11.57:899][  0]LogInit: High frequency timer resolution =3.914065 MHz
+[2018.06.11-22.11.57:900][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.06.11-22.11.57:900][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.11-22.11.57:900][  0]LogMemory: Process Physical Memory: 278.34 MB used, 278.34 MB peak
+[2018.06.11-22.11.57:900][  0]LogMemory: Process Virtual Memory: 269.14 MB used, 269.14 MB peak
+[2018.06.11-22.11.57:900][  0]LogMemory: Physical Memory: 11013.95 MB used,  5292.65 MB free, 16306.60 MB total
+[2018.06.11-22.11.57:900][  0]LogMemory: Virtual Memory: 4838.99 MB used,  5292.65 MB free, 134217728.00 MB total
+[2018.06.11-22.11.57:912][  0]LogInit: Using OS detected language (en-US).
+[2018.06.11-22.11.57:912][  0]LogInit: Using OS detected locale (en-US).
+[2018.06.11-22.11.57:914][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.11-22.11.58:299][  0]LogStreaming: Display: Took  0.387s to EndInitTextLocalization.
+[2018.06.11-22.11.58:299][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.11-22.11.58:334][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.11-22.11.58:334][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.11-22.11.58:489][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.11-22.11.58:527][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780 Ti' (Feature Level 11_0)
+[2018.06.11-22.11.58:527][  0]LogD3D11RHI:       3029/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.06.11-22.11.58:528][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.11-22.11.58:528][  0]LogD3D11RHI:       0/0/8153 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.11-22.11.58:528][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.11-22.11.58:539][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.11-22.11.58:539][  0]LogD3D11RHI:     GPU DeviceId: 0x100a (for the marketing name, search the web for "GPU Device Id")
+[2018.06.11-22.11.58:539][  0]LogWindows: EnumDisplayDevices:
+[2018.06.11-22.11.58:539][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780 Ti' (P:1 D:1)
+[2018.06.11-22.11.58:539][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:1)
+[2018.06.11-22.11.58:539][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.06.11-22.11.58:539][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.06.11-22.11.58:539][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.11-22.11.58:539][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780 Ti
+[2018.06.11-22.11.58:539][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.11-22.11.58:539][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.11-22.11.58:539][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2018.06.11-22.11.58:565][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.11-22.11.58:565][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.11-22.11.58:565][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.11-22.11.58:619][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.11-22.11.58:711][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Intermediate/Shaders/WorkingDirectory/2488/).
+[2018.06.11-22.11.58:712][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jedik/AppData/Local/Temp/UnrealShaderWorkingDir/ADC4ACCE4C5F4A273B20DD8706757DC1/'.
+[2018.06.11-22.11.58:933][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.11-22.11.58:943][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.11-22.11.58:953][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.11-22.11.58:963][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.11-22.11.58:975][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.11-22.11.58:986][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.11-22.11.58:998][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.11-22.11.59:010][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.11-22.11.59:015][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.11-22.11.59:027][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.11-22.11.59:038][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.11-22.11.59:048][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.11-22.11.59:057][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.11-22.11.59:069][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.11-22.11.59:079][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.11-22.11.59:098][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.11-22.11.59:098][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.11-22.11.59:108][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.11-22.11.59:109][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.11-22.11.59:145][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.11-22.11.59:154][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.11-22.11.59:166][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.11-22.11.59:183][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.11-22.11.59:195][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.11-22.11.59:207][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.11-22.11.59:207][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.11-22.11.59:275][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.11-22.11.59:275][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.11-22.11.59:275][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.11-22.11.59:805][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.11-22.11.59:865][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB C:/Users/jedik/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.11-22.11.59:865][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jedik/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.11-22.11.59:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.11-22.11.59:865][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.11-22.11.59:865][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.11-22.11.59:865][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.11-22.11.59:878][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.11-22.11.59:890][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jedik/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.11-22.11.59:890][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.11-22.11.59:890][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.11-22.11.59:900][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.11-22.11.59:900][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.11-22.11.59:900][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.11-22.11.59:900][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.11-22.11.59:988][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2018.06.11-22.12.00:319][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.11-22.12.00:463][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.11-22.12.00:465][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.11-22.12.00:465][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.11-22.12.00:465][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.11-22.12.00:465][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.11-22.12.00:465][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.11-22.12.00:489][  0]LogNetVersion: PhotonRiders , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3646893857)
+[2018.06.11-22.12.01:057][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.155082 seconds
+[2018.06.11-22.12.01:064][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.11-22.12.01:064][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.11-22.12.01:064][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.11-22.12.02:613][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.11-22.12.02:660][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.11-22.12.02:931][  0]SourceControl: Source control is disabled
+[2018.06.11-22.12.02:931][  0]SourceControl: Source control is disabled
+[2018.06.11-22.12.02:942][  0]SourceControl: Source control is disabled
+[2018.06.11-22.12.02:953][  0]SourceControl: Source control is disabled
+[2018.06.11-22.12.03:294][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.11-22.12.03:444][  0]LogOcInput: OculusInput pre-init called
+[2018.06.11-22.12.03:545][  0]LogEngine: Initializing Engine...
+[2018.06.11-22.12.03:546][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.11-22.12.03:548][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.11-22.12.03:548][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.11-22.12.03:872][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.11-22.12.03:899][  0]LogInit: XAudio2 using 'LC-32LB150U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.11-22.12.03:911][  0]LogInit: FAudioDevice initialized.
+[2018.06.11-22.12.03:990][  0]LogDerivedDataCache: Saved boot cache 0.08s 88MB C:/Users/jedik/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.11-22.12.04:007][  0]LogInit: Texture streaming: Enabled
+[2018.06.11-22.12.04:019][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.11-22.12.04:033][  0]LogInit: Transaction tracking system initialized
+[2018.06.11-22.12.04:048][  0]BlueprintLog: New page: Editor Load
+[2018.06.11-22.12.04:096][  0]LocalizationService: Localization service is disabled
+[2018.06.11-22.12.04:185][  0]LogConsoleResponse: Display: 
+[2018.06.11-22.12.04:392][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.11-22.12.04:392][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.11-22.12.04:392][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.11-22.12.04:392][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.11-22.12.04:392][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.11-22.12.04:638][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/' took 0.01s
+[2018.06.11-22.12.04:638][  0]SourceControl: Source control is disabled
+[2018.06.11-22.12.04:640][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Games/UE_4.19/FeaturePacks/StarterContent.upack)
+[2018.06.11-22.12.04:649][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.06.11-22.12.04:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.06.11-22.12.04:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.06.11-22.12.04:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.06.11-22.12.04:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.06.11-22.12.04:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.06.11-22.12.04:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.06.11-22.12.04:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.06.11-22.12.04:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.06.11-22.12.04:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.06.11-22.12.04:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.06.11-22.12.04:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.06.11-22.12.04:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.06.11-22.12.04:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.06.11-22.12.04:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.06.11-22.12.04:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.06.11-22.12.04:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.06.11-22.12.04:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.06.11-22.12.04:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Fire01.uasset"
+[2018.06.11-22.12.04:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.06.11-22.12.04:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.06.11-22.12.04:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.06.11-22.12.04:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Light01.uasset"
+[2018.06.11-22.12.04:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.06.11-22.12.04:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Light02.uasset"
+[2018.06.11-22.12.04:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.06.11-22.12.04:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.06.11-22.12.04:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.06.11-22.12.04:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.06.11-22.12.04:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.06.11-22.12.04:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.06.11-22.12.04:993][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.06.11-22.12.05:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.06.11-22.12.05:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.06.11-22.12.05:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Steam01.uasset"
+[2018.06.11-22.12.05:041][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.06.11-22.12.05:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.06.11-22.12.05:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.06.11-22.12.05:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.06.11-22.12.05:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.06.11-22.12.05:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.06.11-22.12.05:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.06.11-22.12.05:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.06.11-22.12.05:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.06.11-22.12.05:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.06.11-22.12.05:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.06.11-22.12.05:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.06.11-22.12.05:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.06.11-22.12.05:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.06.11-22.12.05:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.06.11-22.12.05:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.06.11-22.12.05:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.06.11-22.12.05:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.06.11-22.12.05:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.06.11-22.12.05:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.06.11-22.12.05:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.06.11-22.12.05:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.06.11-22.12.05:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Maps/StarterMap.umap"
+[2018.06.11-22.12.05:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.06.11-22.12.05:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.06.11-22.12.05:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.06.11-22.12.05:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.06.11-22.12.05:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.06.11-22.12.05:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.06.11-22.12.05:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.06.11-22.12.05:655][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.06.11-22.12.05:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.06.11-22.12.05:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.06.11-22.12.05:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.06.11-22.12.05:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.06.11-22.12.05:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.06.11-22.12.05:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.06.11-22.12.05:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.06.11-22.12.05:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.06.11-22.12.05:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.06.11-22.12.05:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.06.11-22.12.05:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.06.11-22.12.05:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.06.11-22.12.05:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.06.11-22.12.05:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.06.11-22.12.05:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.06.11-22.12.05:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.06.11-22.12.05:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.06.11-22.12.05:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.06.11-22.12.05:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.06.11-22.12.05:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.06.11-22.12.05:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.06.11-22.12.05:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.06.11-22.12.05:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.06.11-22.12.05:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.06.11-22.12.05:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.06.11-22.12.05:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.06.11-22.12.05:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.06.11-22.12.05:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.06.11-22.12.05:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.06.11-22.12.05:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.06.11-22.12.05:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.06.11-22.12.05:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.06.11-22.12.05:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.06.11-22.12.05:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.06.11-22.12.06:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.06.11-22.12.06:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.06.11-22.12.06:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.06.11-22.12.06:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.06.11-22.12.06:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.06.11-22.12.06:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.06.11-22.12.06:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.06.11-22.12.06:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.06.11-22.12.06:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.06.11-22.12.06:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.06.11-22.12.06:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.06.11-22.12.06:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.06.11-22.12.06:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.06.11-22.12.06:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.06.11-22.12.06:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.06.11-22.12.06:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.06.11-22.12.06:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.06.11-22.12.06:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.06.11-22.12.06:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.06.11-22.12.06:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.06.11-22.12.06:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.06.11-22.12.06:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.06.11-22.12.06:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.06.11-22.12.06:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_Door.uasset"
+[2018.06.11-22.12.06:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.06.11-22.12.06:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.06.11-22.12.06:298][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.06.11-22.12.06:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.06.11-22.12.06:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.06.11-22.12.06:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.06.11-22.12.06:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.06.11-22.12.06:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.06.11-22.12.06:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.06.11-22.12.06:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.06.11-22.12.06:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.06.11-22.12.06:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.06.11-22.12.06:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.06.11-22.12.06:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.06.11-22.12.06:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.06.11-22.12.06:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.06.11-22.12.06:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.06.11-22.12.06:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.06.11-22.12.06:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.06.11-22.12.06:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.06.11-22.12.06:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.06.11-22.12.06:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.06.11-22.12.06:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.06.11-22.12.06:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.06.11-22.12.06:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.06.11-22.12.06:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.06.11-22.12.06:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.06.11-22.12.06:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.06.11-22.12.06:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.06.11-22.12.06:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.06.11-22.12.06:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.06.11-22.12.06:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.06.11-22.12.06:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.06.11-22.12.06:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.06.11-22.12.06:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.06.11-22.12.06:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.06.11-22.12.06:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.06.11-22.12.06:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.06.11-22.12.06:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.06.11-22.12.06:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.06.11-22.12.06:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.06.11-22.12.06:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.06.11-22.12.06:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.06.11-22.12.06:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.06.11-22.12.06:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.06.11-22.12.06:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.06.11-22.12.06:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.06.11-22.12.06:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.06.11-22.12.06:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.06.11-22.12.06:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.06.11-22.12.06:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.06.11-22.12.07:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.06.11-22.12.07:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.06.11-22.12.07:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.06.11-22.12.07:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.06.11-22.12.07:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.06.11-22.12.07:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.06.11-22.12.07:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.06.11-22.12.07:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.06.11-22.12.07:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.06.11-22.12.07:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.06.11-22.12.07:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.06.11-22.12.07:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.06.11-22.12.07:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.06.11-22.12.07:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.06.11-22.12.07:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.06.11-22.12.07:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.06.11-22.12.07:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.06.11-22.12.07:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.06.11-22.12.07:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.06.11-22.12.07:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.06.11-22.12.07:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.06.11-22.12.07:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.06.11-22.12.07:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.06.11-22.12.07:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.06.11-22.12.07:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.06.11-22.12.07:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.06.11-22.12.07:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.06.11-22.12.07:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.06.11-22.12.07:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.06.11-22.12.07:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.06.11-22.12.07:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.06.11-22.12.07:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.06.11-22.12.07:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.06.11-22.12.07:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.06.11-22.12.07:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.06.11-22.12.07:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.06.11-22.12.07:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.06.11-22.12.07:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.06.11-22.12.07:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.06.11-22.12.07:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.06.11-22.12.07:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.06.11-22.12.07:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.06.11-22.12.07:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.06.11-22.12.07:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.06.11-22.12.08:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.06.11-22.12.08:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.06.11-22.12.08:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.06.11-22.12.08:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.06.11-22.12.08:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.06.11-22.12.08:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.06.11-22.12.08:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.06.11-22.12.08:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.06.11-22.12.08:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.06.11-22.12.08:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.06.11-22.12.08:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.06.11-22.12.08:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.06.11-22.12.08:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.06.11-22.12.08:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.06.11-22.12.08:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.06.11-22.12.08:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.06.11-22.12.08:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.06.11-22.12.08:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.06.11-22.12.08:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.06.11-22.12.08:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.06.11-22.12.08:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.06.11-22.12.08:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.06.11-22.12.08:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.06.11-22.12.08:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.06.11-22.12.08:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.06.11-22.12.08:699][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.06.11-22.12.08:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.06.11-22.12.08:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.06.11-22.12.08:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.06.11-22.12.08:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.06.11-22.12.08:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.06.11-22.12.08:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.06.11-22.12.08:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.06.11-22.12.08:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.06.11-22.12.08:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.06.11-22.12.08:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.06.11-22.12.08:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.06.11-22.12.08:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.06.11-22.12.08:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.06.11-22.12.08:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.06.11-22.12.08:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.06.11-22.12.08:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.06.11-22.12.08:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.06.11-22.12.08:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.06.11-22.12.08:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.06.11-22.12.09:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.06.11-22.12.09:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.06.11-22.12.09:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.06.11-22.12.09:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.06.11-22.12.09:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.06.11-22.12.09:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.06.11-22.12.09:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.06.11-22.12.09:614][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 26 NumSamples 1 (Frame:1).
+[2018.06.11-22.12.09:898][  0]LogSavePackage: Save=15.60ms
+[2018.06.11-22.12.09:899][  0]LogSavePackage: Moving '../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Saved/Floor_400x4007CEE36914035B41536C355BBDB085832.tmp' to '../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.06.11-22.12.09:909][  0]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.06.11-22.12.09:909][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.06.11-22.12.09:914][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.11-22.12.09:915][  0]LightingResults: New page: Lighting Build
+[2018.06.11-22.12.09:916][  0]MapCheck: New page: Map Check
+[2018.06.11-22.12.09:916][  0]LightingResults: New page: Lighting Build
+[2018.06.11-22.12.09:978][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.561787ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2018.06.11-22.12.10:005][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.06.11-22.12.10:019][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.11-22.12.10:028][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.11-22.12.10:056][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 28.307ms to complete.
+[2018.06.11-22.12.10:056][  0]LogFileHelpers: Loading map 'StartupMap' took 0.143
+[2018.06.11-22.12.10:268][  0]LogCollectionManager: Loaded 0 collections in 0.000875 seconds
+[2018.06.11-22.12.10:332][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Saved/Collections/' took 0.01s
+[2018.06.11-22.12.10:332][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/Developers/jedik/Collections/' took 0.01s
+[2018.06.11-22.12.10:333][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/Collections/' took 0.01s
+[2018.06.11-22.12.10:333][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.11-22.12.10:345][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2452 classes and 558 folders.
+[2018.06.11-22.12.10:355][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.11-22.12.10:391][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.11-22.12.10:401][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.11-22.12.10:460][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.11-22.12.10:462][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.11-22.12.10:474][  0]LogSlate: Took 0.004598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.11-22.12.10:556][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2018.06.11-22.12.10:693][  0]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.11-22.12.10:779][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.11-22.12.10:779][  0]LogLoad: (Engine Initialization) Total time: 15.22 seconds
+[2018.06.11-22.12.10:779][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.11-22.12.10:788][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.11-22.12.10:812][  0]LogAssetRegistry: Asset discovery search completed in 10.8465 seconds
+[2018.06.11-22.12.10:814][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.11-22.12.10:814][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000066 seconds (updated 0 objects)
+[2018.06.11-22.12.10:882][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.11-22.12.15:657][549]Cmd: EDCALLBACK SURFPROPS
+[2018.06.11-22.12.16:695][667]Cmd: EDCALLBACK SURFPROPS
+[2018.06.11-22.12.24:610][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-22.12.25:882][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-22.12.25:918][764]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-22.12.26:237][801]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-22.12.28:416][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-22.12.28:432][ 58]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2018.06.11-22.12.33:634][680]LogSlate: Window 'Levels' being destroyed
+[2018.06.11-22.12.33:637][680]LogSlate: Window 'Levels' being destroyed
+[2018.06.11-22.12.34:426][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.12.44:469][977]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.11-22.12.44:819][977]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dccfdaeb08, Size=4, Default__StarterMap_C Function /Game/StarterContent/Maps/StarterMap.StarterMap_C:ExecuteUbergraph_StarterMap
+[2018.06.11-22.12.44:821][977]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dccfdaeb08, Size=4
+[2018.06.11-22.12.44:821][977]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dccfdaeb08, Size=4, Default__StarterMap_C Function /Engine/Transient.REINST_StarterMap_C_17:ExecuteUbergraph_StarterMap
+[2018.06.11-22.12.44:824][977]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dccfdaea58, Size=4, Default__StarterMap_C Function /Game/StarterContent/Maps/StarterMap.StarterMap_C:ExecuteUbergraph_StarterMap
+[2018.06.11-22.12.44:974][977]LogMaterial: Missing cached shader map for material M_Fire_SubUV, compiling. 
+[2018.06.11-22.12.44:998][977]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.11-22.12.44:998][977]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.11-22.12.44:998][977]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.11-22.12.44:998][977]LogMaterial: Missing cached shader map for material M_Radial_Gradient, compiling. 
+[2018.06.11-22.12.45:009][977]LogMaterial: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2018.06.11-22.12.45:052][977]LogMaterial: Missing cached shader map for material M_Heat_Distortion, compiling. 
+[2018.06.11-22.12.45:095][977]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.06.11-22.12.45:095][977]LogMaterial: Missing cached shader map for material M_Ground_Gravel, compiling. 
+[2018.06.11-22.12.45:194][977]LogMaterial: Missing cached shader map for material M_CobbleStone_Pebble, compiling. 
+[2018.06.11-22.12.45:205][977]LogMaterial: Missing cached shader map for material M_Ceramic_Tile_Checker, compiling. 
+[2018.06.11-22.12.45:214][977]LogMaterial: Missing cached shader map for material M_Brick_Hewn_Stone, compiling. 
+[2018.06.11-22.12.45:225][977]LogMaterial: Missing cached shader map for material M_Brick_Cut_Stone, compiling. 
+[2018.06.11-22.12.45:236][977]LogMaterial: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2018.06.11-22.12.45:310][977]LogMaterial: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2018.06.11-22.12.45:323][977]LogMaterial: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2018.06.11-22.12.45:336][977]LogMaterial: Missing cached shader map for material AntiAliasedTextMaterialTranslucent, compiling. 
+[2018.06.11-22.12.45:355][977]LogMaterial: Missing cached shader map for material M_Lamp, compiling. 
+[2018.06.11-22.12.45:371][977]LogMaterial: Missing cached shader map for material M_Concrete_Panels, compiling. 
+[2018.06.11-22.12.45:380][977]LogMaterial: Missing cached shader map for material M_Concrete_Grime, compiling. 
+[2018.06.11-22.12.45:391][977]LogMaterial: Missing cached shader map for material M_CobbleStone_Smooth, compiling. 
+[2018.06.11-22.12.45:405][977]LogMaterial: Missing cached shader map for material M_CobbleStone_Rough, compiling. 
+[2018.06.11-22.12.45:418][977]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Worn, compiling. 
+[2018.06.11-22.12.45:428][977]LogMaterial: Missing cached shader map for material M_Wood_Floor_Walnut_Polished, compiling. 
+[2018.06.11-22.12.45:441][977]LogMaterial: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2018.06.11-22.12.45:454][977]LogMaterial: Missing cached shader map for material M_Water_Lake, compiling. 
+[2018.06.11-22.12.45:468][977]LogMaterial: Missing cached shader map for material M_Tech_Panel, compiling. 
+[2018.06.11-22.12.45:480][977]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile_Pulse, compiling. 
+[2018.06.11-22.12.45:494][977]LogMaterial: Missing cached shader map for material M_Tech_Hex_Tile, compiling. 
+[2018.06.11-22.12.45:508][977]LogMaterial: Missing cached shader map for material M_Tech_Checker_Dot, compiling. 
+[2018.06.11-22.12.45:520][977]LogMaterial: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2018.06.11-22.12.45:533][977]LogMaterial: Missing cached shader map for material M_Rock_Sandstone, compiling. 
+[2018.06.11-22.12.45:546][977]LogMaterial: Missing cached shader map for material M_Rock_Marble_Polished, compiling. 
+[2018.06.11-22.12.45:560][977]LogMaterial: Missing cached shader map for material M_Rock_Basalt, compiling. 
+[2018.06.11-22.12.45:573][977]LogMaterial: Missing cached shader map for material M_Metal_Steel, compiling. 
+[2018.06.11-22.12.45:586][977]LogMaterial: Missing cached shader map for material M_Metal_Rust, compiling. 
+[2018.06.11-22.12.45:601][977]LogMaterial: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2018.06.11-22.12.45:615][977]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2018.06.11-22.12.45:628][977]LogMaterial: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2018.06.11-22.12.45:641][977]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2018.06.11-22.12.45:654][977]LogMaterial: Missing cached shader map for material M_Metal_Brushed_Nickel, compiling. 
+[2018.06.11-22.12.45:667][977]LogMaterial: Missing cached shader map for material M_Ground_Moss, compiling. 
+[2018.06.11-22.12.45:681][977]LogMaterial: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2018.06.11-22.12.45:694][977]LogMaterial: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2018.06.11-22.12.45:708][977]LogMaterial: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2018.06.11-22.12.45:721][977]LogMaterial: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2018.06.11-22.12.45:735][977]LogMaterial: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2018.06.11-22.12.45:747][977]LogMaterial: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2018.06.11-22.12.45:760][977]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2018.06.11-22.12.45:780][977]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.06.11-22.12.45:806][977]LogMaterial: Missing cached shader map for material M_Frame, compiling. 
+[2018.06.11-22.12.45:824][977]LogMaterial: Missing cached shader map for material M_Dust_Particle, compiling. 
+[2018.06.11-22.12.45:871][977]LogMaterial: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2018.06.11-22.12.45:885][977]LogMaterial: Missing cached shader map for material M_Spark, compiling. 
+[2018.06.11-22.12.45:903][977]LogMaterial: Missing cached shader map for material M_TableRound, compiling. 
+[2018.06.11-22.12.45:923][977]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2018.06.11-22.12.45:939][977]LogMaterial: Missing cached shader map for material M_Statue, compiling. 
+[2018.06.11-22.12.46:016][977]LogAIModule: Creating AISystem for world StarterMap
+[2018.06.11-22.12.46:064][977]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dccfdaeb08, Size=4
+[2018.06.11-22.12.46:068][977]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.11-22.12.46:069][977]LightingResults: New page: Lighting Build
+[2018.06.11-22.12.46:069][977]LoadErrors: New page: Loading map: StarterMap.umap
+[2018.06.11-22.12.46:071][977]MapCheck: New page: Map Check
+[2018.06.11-22.12.46:071][977]LightingResults: New page: Lighting Build
+[2018.06.11-22.12.46:106][977]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.11-22.12.46:142][977]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.11-22.12.46:208][977]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.9ms to complete.
+[2018.06.11-22.12.46:208][977]LogFileHelpers: Loading map 'StarterMap' took 0.142
+[2018.06.11-22.12.48:329][139]LogShaderCompilers: Display: Shaders left to compile 1780
+[2018.06.11-22.12.48:363][143]LogShaderCompilers: Display: Shaders left to compile 1770
+[2018.06.11-22.12.49:185][214]LogShaderCompilers: Display: Shaders left to compile 1760
+[2018.06.11-22.12.50:462][361]LogShaderCompilers: Display: Shaders left to compile 1750
+[2018.06.11-22.12.51:249][448]LogShaderCompilers: Display: Shaders left to compile 1740
+[2018.06.11-22.12.52:072][546]LogShaderCompilers: Display: Shaders left to compile 1730
+[2018.06.11-22.12.53:677][733]LogShaderCompilers: Display: Shaders left to compile 1720
+[2018.06.11-22.12.58:335][273]LogShaderCompilers: Display: Shaders left to compile 1710
+[2018.06.11-22.12.58:665][312]LogShaderCompilers: Display: Shaders left to compile 1700
+[2018.06.11-22.12.58:942][345]LogShaderCompilers: Display: Shaders left to compile 1690
+[2018.06.11-22.13.01:269][595]LogShaderCompilers: Display: Shaders left to compile 1680
+[2018.06.11-22.13.02:349][715]LogShaderCompilers: Display: Shaders left to compile 1670
+[2018.06.11-22.13.04:639][972]LogShaderCompilers: Display: Shaders left to compile 1660
+[2018.06.11-22.13.04:697][979]LogShaderCompilers: Display: Shaders left to compile 1650
+[2018.06.11-22.13.06:518][194]LogShaderCompilers: Display: Shaders left to compile 1640
+[2018.06.11-22.13.08:556][435]LogShaderCompilers: Display: Shaders left to compile 1630
+[2018.06.11-22.13.08:610][438]LogShaderCompilers: Display: Shaders left to compile 1620
+[2018.06.11-22.13.08:935][474]LogShaderCompilers: Display: Shaders left to compile 1610
+[2018.06.11-22.13.09:923][583]LogShaderCompilers: Display: Shaders left to compile 1600
+[2018.06.11-22.13.11:170][728]LogShaderCompilers: Display: Shaders left to compile 1590
+[2018.06.11-22.13.12:092][756]LogShaderCompilers: Display: Shaders left to compile 1580
+[2018.06.11-22.13.13:640][939]LogShaderCompilers: Display: Shaders left to compile 1570
+[2018.06.11-22.13.13:917][971]LogShaderCompilers: Display: Shaders left to compile 1560
+[2018.06.11-22.13.15:279][130]LogShaderCompilers: Display: Shaders left to compile 1550
+[2018.06.11-22.13.15:900][187]LogShaderCompilers: Display: Shaders left to compile 1540
+[2018.06.11-22.13.16:704][266]LogShaderCompilers: Display: Shaders left to compile 1530
+[2018.06.11-22.13.17:884][404]LogShaderCompilers: Display: Shaders left to compile 1520
+[2018.06.11-22.13.18:986][534]LogShaderCompilers: Display: Shaders left to compile 1510
+[2018.06.11-22.13.20:123][667]LogShaderCompilers: Display: Shaders left to compile 1500
+[2018.06.11-22.13.20:958][765]LogShaderCompilers: Display: Shaders left to compile 1490
+[2018.06.11-22.13.22:066][897]LogShaderCompilers: Display: Shaders left to compile 1480
+[2018.06.11-22.13.23:016][ 10]LogShaderCompilers: Display: Shaders left to compile 1470
+[2018.06.11-22.13.23:987][121]LogShaderCompilers: Display: Shaders left to compile 1460
+[2018.06.11-22.13.25:771][333]LogShaderCompilers: Display: Shaders left to compile 1450
+[2018.06.11-22.13.25:800][335]LogShaderCompilers: Display: Shaders left to compile 1440
+[2018.06.11-22.13.26:847][459]LogShaderCompilers: Display: Shaders left to compile 1430
+[2018.06.11-22.13.28:928][706]LogShaderCompilers: Display: Shaders left to compile 1420
+[2018.06.11-22.13.29:137][731]LogShaderCompilers: Display: Shaders left to compile 1410
+[2018.06.11-22.13.29:930][826]LogShaderCompilers: Display: Shaders left to compile 1400
+[2018.06.11-22.13.31:974][ 67]LogShaderCompilers: Display: Shaders left to compile 1390
+[2018.06.11-22.13.32:092][ 81]LogShaderCompilers: Display: Shaders left to compile 1380
+[2018.06.11-22.13.32:903][178]LogShaderCompilers: Display: Shaders left to compile 1370
+[2018.06.11-22.13.34:487][364]LogShaderCompilers: Display: Shaders left to compile 1360
+[2018.06.11-22.13.35:243][454]LogShaderCompilers: Display: Shaders left to compile 1350
+[2018.06.11-22.13.35:974][539]LogShaderCompilers: Display: Shaders left to compile 1340
+[2018.06.11-22.13.37:485][718]LogShaderCompilers: Display: Shaders left to compile 1330
+[2018.06.11-22.13.38:583][842]LogShaderCompilers: Display: Shaders left to compile 1320
+[2018.06.11-22.13.38:780][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.13.38:959][880]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.06.11-22.13.38:975][880]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.11-22.13.38:976][880]LightingResults: New page: Lighting Build
+[2018.06.11-22.13.38:976][880]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2018.06.11-22.13.38:979][880]MapCheck: New page: Map Check
+[2018.06.11-22.13.38:979][880]LightingResults: New page: Lighting Build
+[2018.06.11-22.13.38:993][880]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dccfdaea58, Size=4
+[2018.06.11-22.13.38:998][880]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.11-22.13.39:030][880]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.11-22.13.39:101][880]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.322ms to complete.
+[2018.06.11-22.13.39:101][880]LogFileHelpers: Loading map 'Minimal_Default' took 0.126
+[2018.06.11-22.13.40:397][  6]LogShaderCompilers: Display: Shaders left to compile 1310
+[2018.06.11-22.13.40:692][ 40]LogShaderCompilers: Display: Shaders left to compile 1300
+[2018.06.11-22.13.40:948][ 71]LogShaderCompilers: Display: Shaders left to compile 1290
+[2018.06.11-22.13.41:786][168]LogShaderCompilers: Display: Shaders left to compile 1280
+[2018.06.11-22.13.43:215][319]LogShaderCompilers: Display: Shaders left to compile 1270
+[2018.06.11-22.13.43:706][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.13.43:713][366]LogShaderCompilers: Display: Shaders left to compile 1260
+[2018.06.11-22.13.44:086][382]LogMaterial: Missing cached shader map for material M_ClearCoat, compiling. 
+[2018.06.11-22.13.44:100][382]LogMaterial: Missing cached shader map for material M_ClearCoatBlack, compiling. 
+[2018.06.11-22.13.44:207][382]LogMaterial: Missing cached shader map for material M_GreyBall, compiling. 
+[2018.06.11-22.13.44:220][382]LogMaterial: Missing cached shader map for material M_ColorGrid, compiling. 
+[2018.06.11-22.13.44:232][382]LogMaterial: Missing cached shader map for material M_LightStage_Arrows, compiling. 
+[2018.06.11-22.13.44:237][382]LogMaterial: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2018.06.11-22.13.44:242][382]LogMaterial: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2018.06.11-22.13.44:311][382]LogMaterial: Missing cached shader map for material M_ChromeBall, compiling. 
+[2018.06.11-22.13.44:323][382]LogMaterial: Missing cached shader map for material M_AssetPlatform, compiling. 
+[2018.06.11-22.13.44:406][382]LogShaderCompilers: Display: Shaders left to compile 1451
+[2018.06.11-22.13.44:412][382]LogAIModule: Creating AISystem for world Advanced_Lighting
+[2018.06.11-22.13.44:435][382]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/StarterContent/Maps/Advanced_Lighting.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.11-22.13.44:435][382]LightingResults: New page: Lighting Build
+[2018.06.11-22.13.44:436][382]LoadErrors: New page: Loading map: Advanced_Lighting.umap
+[2018.06.11-22.13.44:437][382]MapCheck: New page: Map Check
+[2018.06.11-22.13.44:437][382]LightingResults: New page: Lighting Build
+[2018.06.11-22.13.44:465][382]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.11-22.13.44:505][382]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.11-22.13.44:577][382]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 72.736ms to complete.
+[2018.06.11-22.13.44:577][382]LogFileHelpers: Loading map 'Advanced_Lighting' took 0.144
+[2018.06.11-22.13.45:204][426]LogShaderCompilers: Display: Shaders left to compile 1441
+[2018.06.11-22.13.46:462][576]LogShaderCompilers: Display: Shaders left to compile 1431
+[2018.06.11-22.13.47:216][665]LogShaderCompilers: Display: Shaders left to compile 1421
+[2018.06.11-22.13.48:128][773]LogShaderCompilers: Display: Shaders left to compile 1411
+[2018.06.11-22.13.50:505][ 50]LogShaderCompilers: Display: Shaders left to compile 1401
+[2018.06.11-22.13.50:711][ 74]LogShaderCompilers: Display: Shaders left to compile 1391
+[2018.06.11-22.13.51:034][111]LogShaderCompilers: Display: Shaders left to compile 1381
+[2018.06.11-22.13.53:435][378]LogShaderCompilers: Display: Shaders left to compile 1371
+[2018.06.11-22.13.53:545][389]LogShaderCompilers: Display: Shaders left to compile 1361
+[2018.06.11-22.13.54:820][538]LogShaderCompilers: Display: Shaders left to compile 1351
+[2018.06.11-22.13.55:146][576]LogShaderCompilers: Display: Shaders left to compile 1341
+[2018.06.11-22.13.55:994][674]LogShaderCompilers: Display: Shaders left to compile 1331
+[2018.06.11-22.13.56:777][754]LogShaderCompilers: Display: Shaders left to compile 1321
+[2018.06.11-22.13.58:179][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.13.58:474][947]LogShaderCompilers: Display: Shaders left to compile 1311
+[2018.06.11-22.13.58:689][971]LogShaderCompilers: Display: Shaders left to compile 1301
+[2018.06.11-22.13.58:805][985]LogShaderCompilers: Display: Shaders left to compile 1291
+[2018.06.11-22.14.01:108][201]LogShaderCompilers: Display: Shaders left to compile 1281
+[2018.06.11-22.14.01:108][201]LogShaderCompilers: Display: Shaders left to compile 1271
+[2018.06.11-22.14.03:134][400]LogShaderCompilers: Display: Shaders left to compile 1261
+[2018.06.11-22.14.03:206][407]LogShaderCompilers: Display: Shaders left to compile 1251
+[2018.06.11-22.14.04:531][541]LogShaderCompilers: Display: Shaders left to compile 1241
+[2018.06.11-22.14.06:866][783]LogShaderCompilers: Display: Shaders left to compile 1231
+[2018.06.11-22.14.06:976][796]LogShaderCompilers: Display: Shaders left to compile 1221
+[2018.06.11-22.14.07:900][903]LogShaderCompilers: Display: Shaders left to compile 1211
+[2018.06.11-22.14.08:123][926]LogShaderCompilers: Display: Shaders left to compile 1201
+[2018.06.11-22.14.10:096][154]LogShaderCompilers: Display: Shaders left to compile 1191
+[2018.06.11-22.14.10:538][206]LogShaderCompilers: Display: Shaders left to compile 1181
+[2018.06.11-22.14.11:050][264]LogShaderCompilers: Display: Shaders left to compile 1171
+[2018.06.11-22.14.11:686][338]LogShaderCompilers: Display: Shaders left to compile 1161
+[2018.06.11-22.14.13:145][504]LogShaderCompilers: Display: Shaders left to compile 1151
+[2018.06.11-22.14.14:436][638]LogShaderCompilers: Display: Shaders left to compile 1141
+[2018.06.11-22.14.15:003][698]LogShaderCompilers: Display: Shaders left to compile 1131
+[2018.06.11-22.14.16:391][836]LogShaderCompilers: Display: Shaders left to compile 1121
+[2018.06.11-22.14.16:681][864]LogShaderCompilers: Display: Shaders left to compile 1111
+[2018.06.11-22.14.17:946][  8]LogShaderCompilers: Display: Shaders left to compile 1101
+[2018.06.11-22.14.19:488][176]LogShaderCompilers: Display: Shaders left to compile 1091
+[2018.06.11-22.14.19:674][198]LogShaderCompilers: Display: Shaders left to compile 1081
+[2018.06.11-22.14.19:698][201]LogShaderCompilers: Display: Shaders left to compile 1071
+[2018.06.11-22.14.21:859][447]LogShaderCompilers: Display: Shaders left to compile 1061
+[2018.06.11-22.14.22:425][503]LogShaderCompilers: Display: Shaders left to compile 1051
+[2018.06.11-22.14.22:995][556]LogShaderCompilers: Display: Shaders left to compile 1041
+[2018.06.11-22.14.24:433][698]LogShaderCompilers: Display: Shaders left to compile 1031
+[2018.06.11-22.14.25:611][813]LogShaderCompilers: Display: Shaders left to compile 1021
+[2018.06.11-22.14.26:320][886]LogShaderCompilers: Display: Shaders left to compile 1011
+[2018.06.11-22.14.28:267][105]LogShaderCompilers: Display: Shaders left to compile 1001
+[2018.06.11-22.14.28:315][109]LogShaderCompilers: Display: Shaders left to compile 991
+[2018.06.11-22.14.28:756][157]LogShaderCompilers: Display: Shaders left to compile 981
+[2018.06.11-22.14.30:246][330]LogShaderCompilers: Display: Shaders left to compile 971
+[2018.06.11-22.14.30:322][339]LogShaderCompilers: Display: Shaders left to compile 961
+[2018.06.11-22.14.31:663][496]LogShaderCompilers: Display: Shaders left to compile 951
+[2018.06.11-22.14.31:975][529]LogShaderCompilers: Display: Shaders left to compile 941
+[2018.06.11-22.14.32:569][598]LogShaderCompilers: Display: Shaders left to compile 931
+[2018.06.11-22.14.33:652][719]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.06.11-22.14.33:655][719]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.06.11-22.14.33:656][719]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2018.06.11-22.14.33:845][736]LogShaderCompilers: Display: Shaders left to compile 921
+[2018.06.11-22.14.34:696][827]LogShaderCompilers: Display: Shaders left to compile 911
+[2018.06.11-22.14.36:066][968]LogShaderCompilers: Display: Shaders left to compile 901
+[2018.06.11-22.14.36:546][ 15]LogShaderCompilers: Display: Shaders left to compile 891
+[2018.06.11-22.14.38:466][230]LogShaderCompilers: Display: Shaders left to compile 881
+[2018.06.11-22.14.38:748][263]LogShaderCompilers: Display: Shaders left to compile 871
+[2018.06.11-22.14.39:484][349]LogShaderCompilers: Display: Shaders left to compile 861
+[2018.06.11-22.14.40:116][422]LogShaderCompilers: Display: Shaders left to compile 851
+[2018.06.11-22.14.41:240][549]LogShaderCompilers: Display: Shaders left to compile 841
+[2018.06.11-22.14.42:325][674]LogShaderCompilers: Display: Shaders left to compile 831
+[2018.06.11-22.14.42:787][724]LogShaderCompilers: Display: Shaders left to compile 821
+[2018.06.11-22.14.43:826][840]LogShaderCompilers: Display: Shaders left to compile 811
+[2018.06.11-22.14.44:291][883]LogShaderCompilers: Display: Shaders left to compile 801
+[2018.06.11-22.14.45:531][ 18]LogShaderCompilers: Display: Shaders left to compile 791
+[2018.06.11-22.14.47:649][253]LogShaderCompilers: Display: Shaders left to compile 781
+[2018.06.11-22.14.47:686][256]LogShaderCompilers: Display: Shaders left to compile 771
+[2018.06.11-22.14.48:198][315]LogShaderCompilers: Display: Shaders left to compile 761
+[2018.06.11-22.14.50:422][564]LogShaderCompilers: Display: Shaders left to compile 751
+[2018.06.11-22.14.51:067][637]LogShaderCompilers: Display: Shaders left to compile 741
+[2018.06.11-22.14.51:841][716]LogShaderCompilers: Display: Shaders left to compile 731
+[2018.06.11-22.14.53:346][877]LogShaderCompilers: Display: Shaders left to compile 721
+[2018.06.11-22.14.54:168][965]LogShaderCompilers: Display: Shaders left to compile 711
+[2018.06.11-22.14.54:642][ 17]LogShaderCompilers: Display: Shaders left to compile 701
+[2018.06.11-22.14.56:640][235]LogShaderCompilers: Display: Shaders left to compile 691
+[2018.06.11-22.14.56:926][269]LogShaderCompilers: Display: Shaders left to compile 681
+[2018.06.11-22.14.57:403][321]LogShaderCompilers: Display: Shaders left to compile 671
+[2018.06.11-22.14.59:039][504]LogShaderCompilers: Display: Shaders left to compile 661
+[2018.06.11-22.14.59:147][516]LogShaderCompilers: Display: Shaders left to compile 651
+[2018.06.11-22.15.00:404][661]LogShaderCompilers: Display: Shaders left to compile 641
+[2018.06.11-22.15.01:066][739]LogShaderCompilers: Display: Shaders left to compile 631
+[2018.06.11-22.15.01:567][798]LogShaderCompilers: Display: Shaders left to compile 621
+[2018.06.11-22.15.02:857][946]LogShaderCompilers: Display: Shaders left to compile 611
+[2018.06.11-22.15.03:410][ 11]LogShaderCompilers: Display: Shaders left to compile 601
+[2018.06.11-22.15.04:204][104]LogShaderCompilers: Display: Shaders left to compile 591
+[2018.06.11-22.15.04:840][179]LogShaderCompilers: Display: Shaders left to compile 581
+[2018.06.11-22.15.06:386][354]LogShaderCompilers: Display: Shaders left to compile 571
+[2018.06.11-22.15.06:488][365]LogShaderCompilers: Display: Shaders left to compile 561
+[2018.06.11-22.15.07:606][485]LogShaderCompilers: Display: Shaders left to compile 551
+[2018.06.11-22.15.08:516][591]LogShaderCompilers: Display: Shaders left to compile 541
+[2018.06.11-22.15.08:928][637]LogShaderCompilers: Display: Shaders left to compile 531
+[2018.06.11-22.15.10:543][814]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.06.11-22.15.10:671][814]LogShaderCompilers: Display: Shaders left to compile 521
+[2018.06.11-22.15.10:796][814]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.06.11-22.15.10:840][814]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.11-22.15.10:849][814]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.06.11-22.15.10:935][814]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.06.11-22.15.11:317][814]LogSlate: Took 0.004955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.11-22.15.11:363][814]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.06.11-22.15.26:775][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.15.26:864][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.06.11-22.15.26:894][912]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.06.11-22.15.27:041][912]LogShaderCompilers: Display: Shaders left to compile 516
+[2018.06.11-22.15.27:361][912]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.06.11-22.15.29:163][ 20]LogShaderCompilers: Display: Shaders left to compile 506
+[2018.06.11-22.15.29:255][ 26]LogShaderCompilers: Display: Shaders left to compile 496
+[2018.06.11-22.15.29:995][ 81]LogShaderCompilers: Display: Shaders left to compile 486
+[2018.06.11-22.15.32:664][259]LogShaderCompilers: Display: Shaders left to compile 476
+[2018.06.11-22.15.32:676][260]LogShaderCompilers: Display: Shaders left to compile 466
+[2018.06.11-22.15.33:775][332]LogShaderCompilers: Display: Shaders left to compile 456
+[2018.06.11-22.15.35:167][430]LogShaderCompilers: Display: Shaders left to compile 446
+[2018.06.11-22.15.37:739][608]LogShaderCompilers: Display: Shaders left to compile 436
+[2018.06.11-22.15.38:580][666]LogShaderCompilers: Display: Shaders left to compile 426
+[2018.06.11-22.15.38:904][690]LogShaderCompilers: Display: Shaders left to compile 416
+[2018.06.11-22.15.39:938][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.15.40:031][762]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.06.11-22.15.40:066][762]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_2.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.06.11-22.15.40:931][799]LogShaderCompilers: Display: Shaders left to compile 406
+[2018.06.11-22.15.42:197][888]LogShaderCompilers: Display: Shaders left to compile 396
+[2018.06.11-22.15.43:387][963]LogShaderCompilers: Display: Shaders left to compile 386
+[2018.06.11-22.15.43:922][  6]LogShaderCompilers: Display: Shaders left to compile 376
+[2018.06.11-22.15.44:355][ 37]LogShaderCompilers: Display: Shaders left to compile 366
+[2018.06.11-22.15.44:495][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.15.47:053][238]LogShaderCompilers: Display: Shaders left to compile 356
+[2018.06.11-22.15.47:081][240]LogShaderCompilers: Display: Shaders left to compile 346
+[2018.06.11-22.15.47:318][258]LogShaderCompilers: Display: Shaders left to compile 336
+[2018.06.11-22.15.48:712][357]LogShaderCompilers: Display: Shaders left to compile 326
+[2018.06.11-22.15.49:898][437]LogShaderCompilers: Display: Shaders left to compile 316
+[2018.06.11-22.15.50:992][512]LogShaderCompilers: Display: Shaders left to compile 306
+[2018.06.11-22.15.51:121][522]LogShaderCompilers: Display: Shaders left to compile 296
+[2018.06.11-22.15.51:741][562]LogShaderCompilers: Display: Shaders left to compile 286
+[2018.06.11-22.15.52:616][622]LogShaderCompilers: Display: Shaders left to compile 276
+[2018.06.11-22.15.54:111][722]LogShaderCompilers: Display: Shaders left to compile 266
+[2018.06.11-22.15.54:602][756]LogShaderCompilers: Display: Shaders left to compile 256
+[2018.06.11-22.15.55:157][790]LogShaderCompilers: Display: Shaders left to compile 246
+[2018.06.11-22.16.12:549][947]LogShaderCompilers: Display: Shaders left to compile 236
+[2018.06.11-22.16.14:891][102]LogShaderCompilers: Display: Shaders left to compile 226
+[2018.06.11-22.16.15:285][107]LogShaderCompilers: Display: Shaders left to compile 216
+[2018.06.11-22.16.15:317][108]LogShaderCompilers: Display: Shaders left to compile 206
+[2018.06.11-22.16.16:592][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-22.16.17:353][220]LogShaderCompilers: Display: Shaders left to compile 196
+[2018.06.11-22.16.18:954][331]LogShaderCompilers: Display: Shaders left to compile 186
+[2018.06.11-22.16.19:138][345]LogShaderCompilers: Display: Shaders left to compile 176
+[2018.06.11-22.16.20:808][465]LogShaderCompilers: Display: Shaders left to compile 166
+[2018.06.11-22.16.21:575][520]LogShaderCompilers: Display: Shaders left to compile 156
+[2018.06.11-22.16.22:133][559]LogShaderCompilers: Display: Shaders left to compile 146
+[2018.06.11-22.16.22:849][604]LogShaderCompilers: Display: Shaders left to compile 136
+[2018.06.11-22.16.23:389][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.16.23:911][662]LogShaderCompilers: Display: Shaders left to compile 126
+[2018.06.11-22.16.24:495][703]LogShaderCompilers: Display: Shaders left to compile 116
+[2018.06.11-22.16.25:335][754]LogShaderCompilers: Display: Shaders left to compile 106
+[2018.06.11-22.16.26:091][790]LogShaderCompilers: Display: Shaders left to compile 96
+[2018.06.11-22.16.26:526][821]LogShaderCompilers: Display: Shaders left to compile 86
+[2018.06.11-22.16.27:478][875]LogShaderCompilers: Display: Shaders left to compile 76
+[2018.06.11-22.16.28:752][946]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.06.11-22.16.28:816][951]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.06.11-22.16.29:500][  3]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.06.11-22.16.30:059][ 40]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.06.11-22.16.30:909][106]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.06.11-22.16.32:108][181]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.11-22.16.34:538][191]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.11-22.17.59:816][710]LogSlate: Window 'MannequinHand_Right_Skeleton' being destroyed
+[2018.06.11-22.17.59:819][710]LogSlate: Window 'MannequinHand_Right_Skeleton' being destroyed
+[2018.06.11-22.18.01:362][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_3.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.06.11-22.18.01:392][842]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_3.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2018.06.11-22.18.04:853][216]LogSlate: Window 'MannequinHand_Right_Skeleton' being destroyed
+[2018.06.11-22.18.04:855][216]LogSlate: Window 'MannequinHand_Right_Skeleton' being destroyed
+[2018.06.11-22.19.32:268][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.19.32:360][597]LogSlate: Window 'GenericHMD' being destroyed
+[2018.06.11-22.19.32:363][597]LogSlate: Window 'GenericHMD' being destroyed
+[2018.06.11-22.19.38:346][297]LogActorFactory: Actor Factory created GenericHMD
+[2018.06.11-22.19.39:570][436]LogActorFactory: Actor Factory created GenericHMD
+[2018.06.11-22.19.44:214][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.19.53:001][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.20.44:403][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.20.55:913][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.21.00:744][802]LogSlate: Window '1x1_cube' being destroyed
+[2018.06.11-22.21.00:748][802]LogSlate: Window '1x1_cube' being destroyed
+[2018.06.11-22.21.32:895][574]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd2a14f580, Size=840, Default__HMDLocomotionPawn_C Function /Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:ExecuteUbergraph_HMDLocomotionPawn
+[2018.06.11-22.21.32:914][574]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd2a14f580, Size=840
+[2018.06.11-22.21.32:914][574]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dcf671f900, Size=840, Default__HMDLocomotionPawn_C Function /Engine/Transient.REINST_HMDLocomotionPawn_C_21:ExecuteUbergraph_HMDLocomotionPawn
+[2018.06.11-22.21.32:927][574]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dcf671e080, Size=840, Default__HMDLocomotionPawn_C Function /Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn_C:ExecuteUbergraph_HMDLocomotionPawn
+[2018.06.11-22.21.32:983][574]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2018.06.11-22.21.33:001][574]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dcf671f900, Size=840
+[2018.06.11-22.21.36:473][574]LogSlate: Window 'Save Content' being destroyed
+[2018.06.11-22.21.36:477][574]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/VirtualRealityBP/Maps/HMDLocomotionMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.11-22.21.36:478][574]LightingResults: New page: Lighting Build
+[2018.06.11-22.21.36:479][574]LoadErrors: New page: Loading map: HMDLocomotionMap.umap
+[2018.06.11-22.21.36:480][574]MapCheck: New page: Map Check
+[2018.06.11-22.21.36:480][574]LightingResults: New page: Lighting Build
+[2018.06.11-22.21.36:499][574]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.11-22.21.36:529][574]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.11-22.21.36:592][574]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.931ms to complete.
+[2018.06.11-22.21.36:592][574]LogFileHelpers: Loading map 'HMDLocomotionMap' took 0.116
+[2018.06.11-22.21.44:721][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.21.44:884][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dcf77ab000, Size=32, Default__BP_PickupCube_C Function /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C:ExecuteUbergraph_BP_PickupCube
+[2018.06.11-22.21.44:887][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dcf77ab000, Size=32
+[2018.06.11-22.21.44:887][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dcf77ab000, Size=32, Default__BP_PickupCube_C Function /Engine/Transient.REINST_BP_PickupCube_C_25:ExecuteUbergraph_BP_PickupCube
+[2018.06.11-22.21.44:888][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd448a3120, Size=32, Default__BP_PickupCube_C Function /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C:ExecuteUbergraph_BP_PickupCube
+[2018.06.11-22.21.44:898][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd431fbb68, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2018.06.11-22.21.44:903][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd431fbb68, Size=24
+[2018.06.11-22.21.44:903][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd431fbb68, Size=24, Default__RightHand_AnimBP_C Function /Engine/Transient.REINST_RightHand_AnimBP_C_0:ExecuteUbergraph_RightHand_AnimBP
+[2018.06.11-22.21.44:908][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dcf49e6ad0, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2018.06.11-22.21.44:920][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd31f81400, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.06.11-22.21.44:948][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd31f81400, Size=968
+[2018.06.11-22.21.44:948][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd75c5f400, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_28:ExecuteUbergraph_BP_MotionController
+[2018.06.11-22.21.44:968][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dd75c5d800, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.06.11-22.21.44:974][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dcf7ad3700, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.06.11-22.21.44:985][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dcf7ad3700, Size=752
+[2018.06.11-22.21.44:985][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dcfa547a00, Size=752, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_30:ExecuteUbergraph_MotionControllerPawn
+[2018.06.11-22.21.44:994][562]LogUObjectGlobals: Created PersistentFrame Addr=0x000001dcfbfdd900, Size=752, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.06.11-22.21.45:111][562]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.06.11-22.21.45:126][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd75c5f400, Size=968
+[2018.06.11-22.21.45:126][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd431fbb68, Size=24
+[2018.06.11-22.21.45:126][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dcf77ab000, Size=32
+[2018.06.11-22.21.45:126][562]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dcfa547a00, Size=752
+[2018.06.11-22.21.45:128][562]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.11-22.21.45:128][562]LightingResults: New page: Lighting Build
+[2018.06.11-22.21.45:129][562]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2018.06.11-22.21.45:129][562]MapCheck: New page: Map Check
+[2018.06.11-22.21.45:129][562]LightingResults: New page: Lighting Build
+[2018.06.11-22.21.45:146][562]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.11-22.21.45:179][562]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.11-22.21.45:236][562]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.564ms to complete.
+[2018.06.11-22.21.45:236][562]LogFileHelpers: Loading map 'MotionControllerMap' took 0.109
+[2018.06.11-22.21.48:268][919]LogAIModule: Creating AISystem for world StartupMap
+[2018.06.11-22.21.48:285][919]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.11-22.21.48:285][919]LightingResults: New page: Lighting Build
+[2018.06.11-22.21.48:285][919]LoadErrors: New page: Loading map: StartupMap.umap
+[2018.06.11-22.21.48:286][919]MapCheck: New page: Map Check
+[2018.06.11-22.21.48:286][919]LightingResults: New page: Lighting Build
+[2018.06.11-22.21.48:299][919]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.11-22.21.48:330][919]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.11-22.21.48:383][919]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.926ms to complete.
+[2018.06.11-22.21.48:383][919]LogFileHelpers: Loading map 'StartupMap' took 0.099
+[2018.06.11-22.21.50:094][117]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.06.11-22.21.50:108][117]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.11-22.21.50:109][117]LightingResults: New page: Lighting Build
+[2018.06.11-22.21.50:109][117]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2018.06.11-22.21.50:110][117]MapCheck: New page: Map Check
+[2018.06.11-22.21.50:110][117]LightingResults: New page: Lighting Build
+[2018.06.11-22.21.50:124][117]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.11-22.21.50:150][117]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.11-22.21.50:200][117]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.396ms to complete.
+[2018.06.11-22.21.50:200][117]LogFileHelpers: Loading map 'MotionControllerMap' took 0.092
+[2018.06.11-22.22.03:762][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-22.22.03:837][750]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.11-22.22.03:851][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.11-22.22.03:852][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.11-22.22.03:854][750]PIE: New page: PIE session: MotionControllerMap (Jun 11, 2018, 8:22:03 AM)
+[2018.06.11-22.22.03:854][750]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.06.11-22.22.03:864][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009177s)
+[2018.06.11-22.22.03:864][750]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.06.11-22.22.03:864][750]LogPlayLevel: PIE: World Init took: (0.000571s)
+[2018.06.11-22.22.03:864][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.009906s)
+[2018.06.11-22.22.03:885][750]LogInit: XAudio2 using 'LC-32LB150U (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.11-22.22.03:892][750]LogInit: FAudioDevice initialized.
+[2018.06.11-22.22.03:940][750]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.06.11-22.22.03:940][750]LogLoad: Game class is 'GameModeBase'
+[2018.06.11-22.22.03:942][750]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.06.11-15.22.03
+[2018.06.11-22.22.03:944][750]LogWorld: Bringing up level for play took: 0.003370
+[2018.06.11-22.22.03:951][750]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.06.11-22.22.03:958][750]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.096
+[2018.06.11-22.22.03:958][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.11-22.22.09:885][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.11-22.22.09:921][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.06.11-22.22.11:451][637]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-22.22.26:904][483]LogSlate: Window 'PhotonRiders - Unreal Editor' being destroyed
+[2018.06.11-22.22.27:101][484]Cmd: QUIT_EDITOR
+[2018.06.11-22.22.27:170][484]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.11-22.22.27:184][484]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.11-22.22.27:185][484]LogExit: Preparing to exit.
+[2018.06.11-22.22.28:054][484]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/' was aborted.
+[2018.06.11-22.22.28:086][484]LogExit: Editor shut down
+[2018.06.11-22.22.28:089][484]LogExit: Transaction tracking system shut down
+[2018.06.11-22.22.28:092][484]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dcf49e6ad0, Size=24
+[2018.06.11-22.22.28:092][484]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd448a3120, Size=32
+[2018.06.11-22.22.28:097][484]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dcf671e080, Size=840
+[2018.06.11-22.22.28:097][484]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dd75c5d800, Size=968
+[2018.06.11-22.22.28:097][484]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001dcfbfdd900, Size=752
+[2018.06.11-22.22.28:151][484]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.11-22.22.28:151][484]LogDirectoryWatcher: A directory notification for '../../../../../Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/' was aborted.
+[2018.06.11-22.22.28:151][484]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.11-22.22.28:151][484]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.11-22.22.28:151][484]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.11-22.22.28:151][484]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.11-22.22.28:151][484]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.11-22.22.28:151][484]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.11-22.22.28:211][484]LogExit: Object subsystem successfully closed.
+[2018.06.11-22.22.28:227][484]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.11-22.22.28:231][484]LogD3D11RHI: Shutdown
+[2018.06.11-22.22.28:231][484]LogD3D11RHI: CleanupD3DDevice
+[2018.06.11-22.22.28:233][484]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.11-22.22.28:245][484]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (588)
+[2018.06.11-22.22.28:245][484]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (586)
+[2018.06.11-22.22.28:245][484]LogModuleManager: Shutting down and abandoning module AnimationEditor (584)
+[2018.06.11-22.22.28:245][484]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (582)
+[2018.06.11-22.22.28:245][484]LogModuleManager: Shutting down and abandoning module PinnedCommandList (580)
+[2018.06.11-22.22.28:245][484]LogModuleManager: Shutting down and abandoning module SkeletonEditor (578)
+[2018.06.11-22.22.28:245][484]LogModuleManager: Shutting down and abandoning module WorldBrowser (576)
+[2018.06.11-22.22.28:248][484]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.06.11-22.22.28:248][484]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.06.11-22.22.28:248][484]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.06.11-22.22.28:248][484]LogDirectoryWatcher: A directory notification for 'D:/Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.11-22.22.28:248][484]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.06.11-22.22.28:248][484]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.06.11-22.22.28:248][484]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.06.11-22.22.28:249][484]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/Collections/' was aborted.
+[2018.06.11-22.22.28:249][484]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Content/Developers/jedik/Collections/' was aborted.
+[2018.06.11-22.22.28:249][484]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/LightBikes/Light Bikes/PhotonRiders/Saved/Collections/' was aborted.
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.06.11-22.22.28:249][484]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.06.11-22.22.28:250][484]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.06.11-22.22.28:250][484]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.06.11-22.22.28:250][484]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.06.11-22.22.28:250][484]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.06.11-22.22.28:250][484]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.06.11-22.22.28:250][484]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.06.11-22.22.28:250][484]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.06.11-22.22.28:250][484]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.06.11-22.22.28:487][484]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.06.11-22.22.28:487][484]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.06.11-22.22.28:487][484]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.06.11-22.22.28:487][484]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.06.11-22.22.28:487][484]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.06.11-22.22.28:487][484]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.06.11-22.22.28:487][484]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.06.11-22.22.28:487][484]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.06.11-22.22.28:487][484]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.06.11-22.22.28:487][484]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.06.11-22.22.28:487][484]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.06.11-22.22.28:487][484]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.06.11-22.22.28:488][484]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.06.11-22.22.28:488][484]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.06.11-22.22.28:488][484]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.06.11-22.22.28:488][484]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.06.11-22.22.28:488][484]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.06.11-22.22.28:488][484]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.06.11-22.22.28:488][484]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.06.11-22.22.28:488][484]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.06.11-22.22.28:488][484]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.06.11-22.22.28:554][484]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.06.11-22.22.28:554][484]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.06.11-22.22.28:554][484]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.06.11-22.22.28:554][484]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.06.11-22.22.28:554][484]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.06.11-22.22.28:554][484]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.06.11-22.22.28:554][484]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.06.11-22.22.28:554][484]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.06.11-22.22.28:554][484]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.06.11-22.22.28:554][484]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.06.11-22.22.28:555][484]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.06.11-22.22.28:555][484]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.06.11-22.22.28:555][484]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.06.11-22.22.28:555][484]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.06.11-22.22.28:555][484]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.06.11-22.22.28:555][484]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.06.11-22.22.28:555][484]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.06.11-22.22.28:556][484]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.06.11-22.22.28:659][484]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.06.11-22.22.28:662][484]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.06.11-22.22.28:763][484]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.06.11-22.22.28:985][484]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.06.11-22.22.28:985][484]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.06.11-22.22.28:985][484]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.06.11-22.22.28:985][484]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.06.11-22.22.28:985][484]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.06.11-22.22.28:985][484]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.06.11-22.22.28:986][484]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.06.11-22.22.28:987][484]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.06.11-22.22.28:987][484]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.06.11-22.22.28:987][484]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.06.11-22.22.28:988][484]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.06.11-22.22.28:990][484]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.06.11-22.22.28:990][484]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.06.11-22.22.28:990][484]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.06.11-22.22.28:991][484]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.06.11-22.22.29:598][484]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.06.11-22.22.29:598][484]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.06.11-22.22.29:598][484]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.06.11-22.22.29:599][484]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.06.11-22.22.29:605][484]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.06.11-22.22.29:606][484]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.06.11-22.22.29:606][484]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.06.11-22.22.29:606][484]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.06.11-22.22.29:606][484]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.06.11-22.22.29:607][484]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.06.11-22.22.29:607][484]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.06.11-22.22.29:607][484]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.06.11-22.22.29:607][484]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.06.11-22.22.29:607][484]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.06.11-22.22.29:607][484]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.06.11-22.22.29:607][484]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.06.11-22.22.29:607][484]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.06.11-22.22.29:607][484]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.06.11-22.22.29:607][484]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.06.11-22.22.29:608][484]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.06.11-22.22.29:608][484]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.06.11-22.22.29:608][484]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.06.11-22.22.29:608][484]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.06.11-22.22.29:608][484]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.06.11-22.22.29:608][484]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.06.11-22.22.29:608][484]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.06.11-22.22.29:618][484]LogDerivedDataCache: Shutdown
+[2018.06.11-22.22.29:618][484]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.06.11-22.22.29:618][484]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.06.11-22.22.29:618][484]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.06.11-22.22.29:618][484]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.06.11-22.22.29:618][484]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.06.11-22.22.29:618][484]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.06.11-22.22.29:618][484]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.06.11-22.22.29:618][484]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.06.11-22.22.29:618][484]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.06.11-22.22.29:618][484]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.06.11-22.22.29:618][484]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.06.11-22.22.29:619][484]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.06.11-22.22.29:620][484]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.06.11-22.22.29:620][484]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.06.11-22.22.29:620][484]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.06.11-22.22.29:620][484]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.06.11-22.22.29:620][484]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.06.11-22.22.29:620][484]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.11-22.22.29:620][484]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.11-22.22.29:620][484]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.11-22.22.29:620][484]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.11-22.22.29:620][484]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.11-22.22.29:620][484]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.11-22.22.29:620][484]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.11-22.22.29:620][484]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.11-22.22.29:620][484]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B13A25937-4D25-3A6E-848E-A6AFE3B365CA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=f8023d754a777ebcbe8053879e383032%7C64dd1bb67e314d5698afe0c377d0d2c1%7C3b81ab58-0d83-4b29-aa8a-36bf2a538170&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.11-22.22.29:622][484]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.11-22.22.29:623][484]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.11-22.22.29:626][484]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.11-22.22.29:626][484]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.11-22.22.29:626][484]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.11-22.22.29:626][484]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.11-22.22.29:626][484]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.11-22.22.29:626][484]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.11-22.22.29:627][484]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.11-22.22.29:627][484]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.11-22.22.29:627][484]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.11-22.22.29:627][484]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.11-22.22.29:627][484]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.11-22.22.29:627][484]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.11-22.22.29:627][484]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.11-22.22.29:627][484]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.11-22.22.29:627][484]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.11-22.22.29:627][484]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.11-22.22.29:627][484]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.11-22.22.29:632][484]LogExit: Exiting.
+[2018.06.11-22.22.29:643][484]Log file closed, 06/11/18 15:22:29
